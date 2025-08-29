@@ -48,7 +48,7 @@
   align-items: center;
 }
 
-/* Mobile menu button */
+
 .mobile-menu-btn {
   display: none;
   background: none;
@@ -58,7 +58,7 @@
   cursor: pointer;
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .navbar-links {
     display: none;

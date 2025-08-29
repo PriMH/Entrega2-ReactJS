@@ -4,7 +4,7 @@ import '../styles/ItemListContainer.css';
 const ItemListContainer = ({ greeting }) => {
   return (
     <div className="item-list-container">
-      {/* Hero Section */}
+      
       <section className="hero-section">
         <div className="container">
           <div className="hero-content">
